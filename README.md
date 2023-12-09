@@ -6,7 +6,7 @@
 
 <!-- working -->
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React | React-Native | MERN**
 
@@ -15,6 +15,7 @@
 - ⚡ Fun fact **sometimes i love to do nothing.**
 
 <!-- status -->
+<h3 align="center">My Github Status Streak</h3>
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com?user=suru1849&theme=ocean-dark" alt="GitHub Streak" /></p>
 
 <!-- Languanges and tools -->
